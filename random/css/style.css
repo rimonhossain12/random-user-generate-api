@@ -1,0 +1,29 @@
+img {
+    border-radius: 50%;
+}
+
+.my-div {
+    width: 100%;
+    text-align: center;
+}
+
+div.parent {
+    text-align: center;
+}
+
+/* .button-div {
+    text-align: center;
+} */
+
+
+ul li {
+    margin-top: 20px;
+    display: inline;
+    text-align: center;
+    margin-left: 3px;
+    padding: 10px;
+}
+
+i {
+    font-size: 2rem;
+}
