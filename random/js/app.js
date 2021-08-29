@@ -60,6 +60,7 @@ document.getElementById('message').addEventListener('mouseover', function () {
 document.getElementById('calender').addEventListener('mouseover', function () {
     const text = document.getElementById('common-text');
     text.innerText = 'My birthday is';
+    document.getElementById('set-text').innerText = '12-8-1998';
 });
 document.getElementById('location').addEventListener('mouseover', function () {
     const text = document.getElementById('common-text');
